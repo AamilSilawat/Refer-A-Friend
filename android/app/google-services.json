@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877212941389",
+    "project_id": "practicaldynamiclinkdemo",
+    "storage_bucket": "practicaldynamiclinkdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877212941389:android:32466008289d562638f004",
+        "android_client_info": {
+          "package_name": "com.referraldemo.referral_code_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877212941389-6q09nhs60nj5bh587v1jlgmc54tprjs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmifMlXcpn1sW_JesYNf54pUDHcERuHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877212941389-6q09nhs60nj5bh587v1jlgmc54tprjs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
